@@ -1,2 +1,2 @@
-# F-Messenger-Backend
-The backend of F-Messenger application
+# X-Messenger-Backend
+The backend of X-Messenger application
